@@ -1,0 +1,34 @@
+Dec 29 14:01:22 server sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 4444 ssh2
+Dec 29 14:01:25 server sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 4445 ssh2
+Dec 29 14:01:28 server sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 4446 ssh2
+
+Dec 29 14:02:10 server sshd[2045]: Failed password for root from 10.0.0.5 port 5555 ssh2
+
+Dec 29 14:03:44 server sshd[3321]: Failed password for invalid user test from 172.16.0.8 port 6001 ssh2
+Dec 29 14:03:47 server sshd[3321]: Failed password for invalid user test from 172.16.0.8 port 6002 ssh2
+Dec 29 14:03:50 server sshd[3321]: Failed password for invalid user test from 172.16.0.8 port 6003 ssh2
+Dec 29 14:03:53 server sshd[3321]: Failed password for invalid user test from 172.16.0.8 port 6004 ssh2
+
+Dec 29 14:04:11 server sshd[4120]: Failed password for invalid user guest from 203.0.113.9 port 7001 ssh2
+
+Dec 29 14:05:55 server sshd[5011]: Failed password for root from 198.51.100.22 port 8001 ssh2
+Dec 29 14:05:58 server sshd[5011]: Failed password for root from 198.51.100.22 port 8002 ssh2
+Dec 29 14:06:01 server sshd[5011]: Failed password for root from 198.51.100.22 port 8003 ssh2
+Dec 29 14:06:04 server sshd[5011]: Failed password for root from 198.51.100.22 port 8004 ssh2
+Dec 29 14:06:07 server sshd[5011]: Failed password for root from 198.51.100.22 port 8005 ssh2
+
+Dec 29 14:07:19 server sshd[6123]: Failed password for invalid user oracle from 45.33.32.156 port 9001 ssh2
+Dec 29 14:07:22 server sshd[6123]: Failed password for invalid user oracle from 45.33.32.156 port 9002 ssh2
+
+Dec 29 14:08:33 server sshd[7211]: Failed password for invalid user postgres from 54.184.91.203 port 9101 ssh2
+Dec 29 14:08:36 server sshd[7211]: Failed password for invalid user postgres from 54.184.91.203 port 9102 ssh2
+Dec 29 14:08:39 server sshd[7211]: Failed password for invalid user postgres from 54.184.91.203 port 9103 ssh2
+
+Dec 29 14:09:50 server sshd[8310]: Failed password for invalid user ftp from 8.34.92.17 port 9201 ssh2
+
+Dec 29 14:10:12 server sshd[9402]: Failed password for root from 66.240.205.34 port 9301 ssh2
+Dec 29 14:10:15 server sshd[9402]: Failed password for root from 66.240.205.34 port 9302 ssh2
+Dec 29 14:10:18 server sshd[9402]: Failed password for root from 66.240.205.34 port 9303 ssh2
+Dec 29 14:10:21 server sshd[9402]: Failed password for root from 66.240.205.34 port 9304 ssh2
+Dec 29 14:10:24 server sshd[9402]: Failed password for root from 66.240.205.34 port 9305 ssh2
+Dec 29 14:10:27 server sshd[9402]: Failed password for root from 66.240.205.34 port 9306 ssh2
