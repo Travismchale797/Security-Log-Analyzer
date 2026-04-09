@@ -18,7 +18,7 @@ Security Alert Report:
 [ALERT] 192.168.1.10 | Attempts: 3 | Severity: MEDIUM
 [ALERT] 198.51.100.22 | Attempts: 5 | Severity: HIGH
 
-## Project Demonstration
+# Project Demonstration
 
 1. Log Analyzer Execution & Alert Generation  
    ![Log Analyzer Output](images/log-analyzer-output.png)
