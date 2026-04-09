@@ -11,7 +11,16 @@ This project is a Python-based security log analyzer designed to simulate basic 
   - **HIGH**: 5+ failed attempts
 - Outputs SOC-style alert messages
 
+# Project Demonstration
+
+1. Log Analyzer Execution & Alert Generation  
+   ![Log Analyzer Output](images/log-analyzer-output.png)
+
+2. GitHub Repository Push (Successful Deployment)  
+   ![GitHub Push](images/github-push-success.png)
+
 # Example Output
+   
 ```text
 Security Alert Report:
 [INFO]  10.0.0.5 | Attempts: 1 | Severity: LOW
