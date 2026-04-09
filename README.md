@@ -17,3 +17,11 @@ Security Alert Report:
 [INFO]  10.0.0.5 | Attempts: 1 | Severity: LOW
 [ALERT] 192.168.1.10 | Attempts: 3 | Severity: MEDIUM
 [ALERT] 198.51.100.22 | Attempts: 5 | Severity: HIGH
+
+## Project Demonstration
+
+1. Log Analyzer Execution & Alert Generation  
+   ![Log Analyzer Output](images/log-analyzer-output.png)
+
+2. GitHub Repository Push (Successful Deployment)  
+   ![GitHub Push](images/github-push-success.png)
